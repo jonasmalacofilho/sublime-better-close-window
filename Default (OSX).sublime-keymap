@@ -1,3 +1,4 @@
 [
-	{ "keys": ["super+shift+w"], "command": "better_close_window" }
+	{ "keys": ["super+shift+w"], "command": "better_close_window" },
+	{ "keys": ["super+q"], "command": "better_exit" }
 ]
